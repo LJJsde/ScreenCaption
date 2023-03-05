@@ -1,0 +1,3 @@
+C:/Users/ugug/CLionProjects/untitled1/list1/cmake-build-debug/CMakeFiles/list1-list1.dir
+C:/Users/ugug/CLionProjects/untitled1/list1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ugug/CLionProjects/untitled1/list1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
